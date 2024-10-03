@@ -1,0 +1,782 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+
+*{
+    font-family: "Source Sans 3", sans-serif;
+    margin: 0 auto;
+
+}
+
+
+.header{
+    position: absolute;
+    width: 1180px;
+    height: 113px;
+    top:32px;
+    left: 130px;
+    display: flex;
+    max-width: 100;
+    
+    
+}
+        
+
+.logo{
+    width: 180px;
+    height: 38px;
+    top:35px;
+    left:130px;
+    position: absolute;
+
+}   
+
+.ques{
+    width: 280px;
+    height: 17px;
+    top: 32px;
+    left: 830px;
+    size:14px;
+    font-weight: 400;
+    text-align:right;
+    line-height: 16.8px;
+    position: absolute;
+
+    
+}
+
+.konst{
+    position: absolute;
+    width: 180px;
+    height: 17px;
+    top:32px;
+    left: 1130px;
+    size:14px;
+    font-weight: 400;
+    line-height: 16.8px;
+    text-align: right;
+}
+
+.line{
+    border-style: solid none none none;
+    width: 1180px;
+    border-width: 1px;
+    top: 109px;
+    position: absolute;
+    left: 130px;
+    color:gray
+}
+
+.gmail{
+    width: 280px;
+    height: 28px;
+    top:49px;
+    left: 830px;
+    font-weight: 600;
+    font-size:20px; 
+    line-height: 28.48px;
+    color: #607ce6;
+}
+
+.number{
+    width: 180px;
+    height: 28px;
+    top:49px;
+    left: 1130px;
+    font-weight: 600;
+    font-size:20px;
+    line-height: 28.48px;
+    color:#607ce6
+
+}
+
+.down{ 
+    position: absolute;
+    height: 19px;
+    top:126px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    color:#333333
+}
+
+.main1{
+    width:57px;
+    left:130px;
+
+}
+
+.main2{
+    width: 109px;
+    left: 231px;
+}
+
+.main3{
+    width: 60px;
+    left:384px;
+}
+
+.main4{
+    width: 79px;
+    left:488px;
+
+}
+
+.main5{
+    width: 47px;
+    left:610px;
+}
+
+.main6{
+    width: 81px;
+    left:701px;
+}
+
+.main7{
+    width: 143px;
+    left:826px;
+}
+
+.main8{ 
+    width: 68px;
+    left:1031px;
+}
+
+.call{
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    top:127px;
+    left: 1153px;
+}
+
+.main9{
+    width: 137px;
+    left:1173px;
+    color:#607ce6
+}
+
+.hero{
+    position: absolute;
+    width: 1180px;
+    height: 616px;
+    left: 130px;
+}
+
+.down1{
+    position: absolute;
+    color:#333333
+}
+
+.main-title{
+    width: 580px;
+    height: 144px;
+    left:130px;
+    top:225px;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 72px;
+}
+
+.main-text{
+    width: 379px;
+    height: 94px;
+    top:251px;
+    left:730px;
+    font-weight: 400;
+    font-size:16px;
+    line-height: 19.2px;
+}
+
+.hero-image{
+    width: 1180px;
+    height: 440px;
+    top:401px;
+    left: 130px;
+
+}
+
+.about{
+    position: absolute;
+    width: 1180px;
+    height: 602px;
+    top:921px;
+    left:130px;
+}
+
+.down2{
+    position: absolute;
+    color:#333333
+}
+
+
+.second{
+    width: 340px;
+    height: 58px;
+    left:130px;
+    font-weight: 700;
+    font-size:48px;
+    line-height: 57.6px;
+}
+
+.second1{
+    width: 580px;
+    height: 110px;
+    top:90px;
+    left:130px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22.4px;
+}
+
+.second2{
+    width: 580px;
+    height: 110px;
+    top:90px;
+    left:750px;
+    font-weight: 400;
+    font-size:16px;
+    line-height: 22.4px;
+}
+
+.second3{
+    width: 580px;
+    height: 66px;
+    top:250px;
+    left:130px;
+    font-weight: 400;
+    font-size:16px;
+    line-height: 22.4px;
+}
+
+.imag{
+    width: 580px;
+    height:280px;
+    top:350px;
+    left:130px;
+}
+
+.imag2{
+    width: 580px;
+    height: 280px;
+    top:350px;
+    left:750px;
+}
+
+.product{ 
+    position: absolute;
+    width: 1180px;
+    height: 985px;
+    top:1603px;
+    left: 130px;
+
+}
+
+.down3{
+    color:#333333;
+    position: absolute;
+}
+
+.fag{
+    width: 283px;
+    height: 58px;
+    left:130px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57.6px;
+}
+
+.dsad{ 
+    width: 380px;
+    height: 435px;
+    left:130px;
+}
+
+.imfs{
+    width: 200px;
+    height: 194px;
+    top:110px;
+    left:130px;
+}
+
+.imds{ 
+    width: 274px;
+    height: 34px;
+    top:350px;
+    left:130px;
+    font-weight: 600;
+    font-size:28px;
+    line-height: 33.6px;
+}
+
+.fsda{ 
+    width: 99px;
+    height: 24px;
+    top:400px;
+    left:130px;
+    color:#607ce6;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dsad{
+    width: 200px;
+    height: 112px;
+    top:220px;
+    left:554px;
+
+}
+
+.imdsa{ 
+    width: 200px;
+    height: 112px;
+    top:110px;
+    left:554px;
+}
+
+.imdadg{
+    width: 235px;
+    height: 34px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 33.6px;
+    left:554px;
+    top:350px;
+}
+
+.dsawf{
+    width: 99px;
+    height: 24px;
+    top:400px;
+    left:554px;
+    color:#607ce6;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dsawfd{
+    width: 200px;
+    height: 158px;
+    top:110px;
+    left:954px;
+}
+
+.gkjde{
+    width: 214px;
+    height: 34px;
+    top:350px;
+    left: 954px;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 33.6px;
+}
+
+.dfdsadf{
+    width: 99px;
+    height: 24px;
+    color:#607ce6;
+    top:400px;
+    left:954px;
+    font-size:20px;
+    font-weight: 400;
+}
+
+.fesafv{
+    width: 380px;
+    height: 435px;
+    left:130px;
+    top: 550px;
+}
+
+.dfjkw{
+    width: 200px;
+    height: 149px;
+    left:154px;
+    top:550px;
+}
+
+.fsdaufd{
+    width: 279px;
+    height: 34px;
+    left:130px;
+    top:790px;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.ghunwejd{
+    width: 99px;
+    height: 24px;
+    color:#607ce6;
+    left:130px;
+    top:840px;
+    font-size:20px;
+    line-height: 24px;
+    font-weight: 400;
+}
+
+.dsddwfer{ 
+    width: 380px;
+    height: 435px;
+    left:530px;
+}
+
+.ifh3eu{ 
+    width: 200px;
+    height: 141px;
+    left:554px;
+}
+
+.huife{
+    width: 301px;
+    height: 34px;
+    left:554px;
+    top:790px;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.ijhvro{
+    width: 99px;
+    height: 24px;
+    color:#607ce6;
+    font-size:20px;
+    font-weight: 400;
+    top:840px;
+    left:554px;
+}
+
+.geunfwo{ 
+    width: 380px;
+    height: 435px;
+    left:930px;
+    top:550px;
+
+}
+
+.giej8n{
+    width: 200px;
+    height: 138px;
+    top:550px;
+    left:930px;
+
+}
+
+.ioajfw{ 
+    width: 148px;
+    height: 34px;
+    left:930px;
+    top:790px;
+    font-size:28px;
+    font-weight: 600;
+}
+
+.fopewopb{
+    color:#607ce6;
+    left:930px;
+    top:840px;
+    left:930px;
+    font-size: 20px;
+    font-weight: 400;
+    width: 99px;
+    height: 24px;
+}
+
+.dwafeg{
+    position: absolute;
+    width: 1180px;
+    height: 805px;
+    left:130px;
+    top:2668px;
+    color:#333333
+}
+
+.dwascc{ 
+    position: absolute;
+    width:480px;
+    height:58px ;
+    font-size:48px;
+    font-weight:700 ;
+    left:130px;
+
+}
+
+.dsdwdwf{
+    width: 1180px;
+    height: 568px ;
+    position: absolute;
+    top:3553px;
+    left: 130px;
+}
+
+.down4{
+    color:#333333;
+    position: absolute;
+}
+
+.feg34wed{
+    width: 280px;
+    height: 58px;
+    left:130px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 57.6px;
+}
+
+.fesfea{ 
+    width: 380px;
+    height: 251px;
+    top:90px;
+    left:130px;
+}
+
+.kdwoqp{
+    width: 348px;
+    height: 84px;
+    top:357px;
+    left:146px;
+    font-weight: 400;
+    font-size:20px;
+    line-height: 28px;
+}
+
+.fijieo{ 
+    width: 93px;
+    height: 19px;
+    top:524px;
+    left:146px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    color:#607ce6;
+}
+
+.gjive{
+    width: 72px;
+    height: 22px;
+    color:gray;
+    left:442px;
+    top:524px;
+    font-size:16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.djkwcd{ 
+    width: 380px;
+    height: 251px;
+    left:530px;
+    top:90px;
+
+}
+
+.fejioef{
+    width: 348px;
+    height: 84px;
+    left:546px;
+    top:357px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+
+.kfoef{ 
+    color:#607ce6;
+    width: 93px;
+    height: 19px;
+    left:546px;
+    top:524px;
+    font-size:16px;
+    font-weight: 400;
+    line-height: 19.2px;
+}
+
+.fkoeff{
+    color:gray;
+    width:72px;
+    height: 22px;
+    left:822px;
+    top:524px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.kfle{ 
+    width: 380px;
+    height: 251px;
+    left:930px;
+    top:90px;
+
+}
+
+.fofue{ 
+    width: 348px;
+    height: 56px;
+    left:946px;
+    top:357px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.opfkpdo{
+    color:#607ce6;
+    width: 93px;
+    height: 19px;
+    top:524px;
+    left:946px;
+    font-size:16px;
+    font-weight: 400;
+    line-height: 19.2px;
+
+}
+
+.fopd{
+    color:grey;
+    width: 72px;
+    height: 22px;
+    left:1222px;
+    top:524px;
+    font-size:16px;
+    font-weight: 400;
+    line-height: 22.4px;
+
+}
+
+.dwdwd{
+    width: 100%;
+    height: 361px;
+    top:4201px;
+    position: absolute;
+    background-color: #333333;
+}
+
+.down5{
+    position: absolute;
+    color:white;
+}
+
+.jfdiw{
+    width: 180px;
+    height: 38px;
+    top:56px;
+    left:130px;
+}
+
+.dsadfw{
+    width: 57px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 56px;
+    left:730px; 
+}
+
+.fdsffe{ 
+    width: 81px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 56px;
+    left:930px; 
+}
+
+.dasddw{
+    width: 48px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 56px;
+    left:1130px;
+}
+
+.dsdwef{
+    width: 109px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 99px;
+    left:730px;
+}
+
+.dsadd{
+    width: 143px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 99px;
+    left:930px;
+}
+
+.dsadwd{
+    width: 81px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 99px;
+    left:1130px;
+}
+
+.dsadws{
+    width: 60px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 142px;
+    left:730px; 
+}
+
+.dwads{
+    width: 68px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 142px;
+    left:930px; 
+}
+
+.dsadwa{
+    width: 158px;
+    height: 38px;
+    font-size:16px;
+    font-weight: 400;
+    top: 142px;
+    left:1130px; 
+}
+
+.sadjwd{
+    width: 78px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 185px;
+    left:730px; 
+}
+
+.dsadwdd{
+    width: 47px;
+    height: 19px;
+    font-size:16px;
+    font-weight: 400;
+    top: 228px;
+    left:730px; 
+}
+
+.dsadwas{
+    width: 170px;
+    height: 17px;
+    font-size:14px;
+    font-weight: 400;
+    top: 320px;
+    left:638px; 
+}
+
+.dwadsdsdw{ 
+    position: absolute;
+    width: 1180px;
+    height: 805px;
+    top:90px;
+    left:130px;
+}
